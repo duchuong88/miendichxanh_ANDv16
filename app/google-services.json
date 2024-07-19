@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "120805252082",
+    "firebase_url": "https://mien-dich-xanh-default-rtdb.firebaseio.com",
+    "project_id": "mien-dich-xanh",
+    "storage_bucket": "mien-dich-xanh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120805252082:android:750e9f84f79b4bef8c696b",
+        "android_client_info": {
+          "package_name": "miendichxanh.vn1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI4bKe3DeV4dVNey7KVFybVYY0bNH0ees"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120805252082:android:2bfcb08ca9a5b63e8c696b",
+        "android_client_info": {
+          "package_name": "vn.miendichxanh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI4bKe3DeV4dVNey7KVFybVYY0bNH0ees"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
